@@ -1,2 +1,2 @@
 # hello-world
-Learning something fun
+Learning something fun!
